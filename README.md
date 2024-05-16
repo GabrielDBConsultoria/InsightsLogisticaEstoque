@@ -18,6 +18,6 @@ A segunda análise, também realizada em Python, utilizou as bibliotecas pandas 
 
 Essas análises demonstram não apenas a importância da análise descritiva de dados, mas também como a utilização de ferramentas como Python e suas bibliotecas especializadas pode fornecer insights valiosos para impulsionar as estratégias de negócios. Ao combinar análises qualitativas e quantitativas, posso oferecer soluções personalizadas e orientadas por dados para o cliente , garantindo um planejamento estratégico eficaz e adaptável.
 
-* Ao final do código iniciei um projeto de estudo em machine learning, para testar modelos de previsão. Foi apenas um teste inicial para umm novo projeto que está sendo desenvolvido em paralelo.   
+* Ao final do código iniciei um projeto de estudo em machine learning, para testar modelos de previsão. Foi apenas um teste inicial para um novo projeto que está sendo desenvolvido em paralelo.   
 
 
